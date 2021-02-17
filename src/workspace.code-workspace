@@ -3,6 +3,26 @@
 		{
 			"name": "ESPNowSHT31D1Mini",
 			"path": ".."
+		},
+		{
+			"name": "Serial_Smartmeter_20210215",
+			"path": "..\\..\\Serial_Smartmeter_20210215"
+		},
+		{
+			"name": "ESPNow2mqtt",
+			"path": "..\\..\\ESPNow2mqtt"
+		},
+		{
+			"name": "CameraWebServer",
+			"path": "..\\..\\CameraWebServer"
+		},
+		{
+			"name": "ESPNowGateway",
+			"path": "..\\..\\ESPNowGateway"
+		},
+		{
+			"name": "ESPNow2mqtt - Client",
+			"path": "..\\..\\ESPNow2mqtt - Client"
 		}
 	],
 	"settings": {}
